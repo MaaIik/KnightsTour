@@ -103,7 +103,7 @@ def find_next_valid_moves(x, y, n, board):
 
 
 if __name__ == '__main__':
-    knight_tour(12)  # Choose size of board: n x n
+    knight_tour(8)  # Choose size of board: n x n
 
 # To verify for yourself. Check link below
 # /http://www.maths-resources.com/knights/
