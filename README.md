@@ -16,6 +16,8 @@ been proposed, ranging from brute force algorithms to neural networks.
 
 **Each sqaure has 8 potential directions for the knight to go.
 But not all squares have 8 valid options because sometimes some of the steps will move the knight beyond board's boundries.
+
+
 ![knight rules](./images/knight_rules.png)
 
 The knight will start from an empty square and then just try each option out of the 8 potential future move.
