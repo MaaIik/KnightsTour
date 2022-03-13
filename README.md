@@ -43,11 +43,9 @@ Starting from any square, the knight must move to an unvisited square that has t
 Choosing a square with the fewest successors avoids a possible dead-end when traversing the board.  However, 
 because Warnsdorff’s rule is heuristic, it is not guaranteed to find a solution.
 
-# Compiling and Running
 
-# Screenshots
-
-![output](./images/output.png)
+# Output
+![output](./images/output.PNG)
 
 
 
