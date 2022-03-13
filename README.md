@@ -34,4 +34,4 @@ because Warnsdorff’s rule is heuristic, it is not guaranteed to find a solutio
 
 
 # Output
-![output](./images/output.PNG)
+![output](./images/code_output.PNG)
